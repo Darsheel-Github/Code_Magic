@@ -1,0 +1,14 @@
+html {
+    scroll-behavior: smooth;
+   }
+
+body{
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+    background: #90e7dc;
+}
+
+.img{
+    border-radius: 10px;
+}
+
